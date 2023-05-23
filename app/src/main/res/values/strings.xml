@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ex2</string>
+    <string name="return_home">Return to home</string>
+    <string name="main_name">9dd26291</string>
+    <string name="main_uc1">Linear layout (UC1)</string>
+    <string name="main_uc2">Relative layout (UC2)</string>
+    <string name="main_uc3">Timed ImageView (UC3)</string>
+    <string name="main_uc4">Table layout (UC4)</string>
+    <string name="main_uc5">Grid layout (UC5)</string>
+
+    <string name="uc1_horizontal_layout">Horizontal layout</string>
+    <string name="uc1_vertical_layout">Vertical layout</string>
+    <string name="uc1_align_left">Align left</string>
+
+    <string name="ph_button_1">第一個Button</string>
+    <string name="ph_button_2">第二個Button</string>
+    <string name="ph_button_3">第三個Button</string>
+    <string name="ph_button_4">第四個Button</string>
+
+</resources>
